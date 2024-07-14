@@ -4,7 +4,6 @@
 
 <img src="https://github.com/u4java/u4java/blob/main/logo-java.webp" alt="Community Logo" width="200"/>
 
-[![GitHub stars](https://img.shields.io/github/stars/u4java/community?style=social)](https://github.com/u4java/community/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArabicJavaDev?style=social)](https://twitter.com/i/communities/1762925509401272408)
 [![LinkedIn Group](https://img.shields.io/badge/LinkedIn-Group-blue?style=social&logo=linkedin)](https://www.linkedin.com/groups/9861223/)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue?style=social&logo=telegram)](https://t.me/java_28)
