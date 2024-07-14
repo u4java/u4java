@@ -66,7 +66,7 @@ graph TD
 استفد من مجموعتنا الغنية من الموارد التعليمية:
 
 - [📘 وثائق Java الرسمية](https://docs.oracle.com/en/java/)
-- [🧰 أدوات ومكتبات مفيدة](https://github.com/u4java/awesome-java-libraries)
+- [🧰 أدوات ومكتبات مفيدة](https://github.com/u4java/java-tools-libraries)
 - [📖 كتب موصى بها](https://github.com/u4java/java-books-list)
 - [🎓 دورات مجانية](https://github.com/u4java/free-java-courses)
 - [🏆 تحديات برمجية](https://github.com/u4java/coding-challenges)
