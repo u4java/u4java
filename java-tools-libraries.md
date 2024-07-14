@@ -40,4 +40,4 @@
 
 ---
 
-هل لديك اقتراحات لإضافة أدوات أو مكتبات أخرى؟ شاركنا في [قسم المناقشات](https://github.com/u4java/community/discussions)!
+هل لديك اقتراحات لإضافة أدوات أو مكتبات أخرى؟ شاركنا في [قسم المناقشات](https://github.com/u4java/u4java/discussions)!
