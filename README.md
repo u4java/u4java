@@ -5,8 +5,9 @@
 <img src="https://github.com/u4java/u4java/blob/main/logo-java.webp" alt="Community Logo" width="200"/>
 
 [![GitHub stars](https://img.shields.io/github/stars/u4java/community?style=social)](https://github.com/u4java/community/stargazers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ArabicJavaDev?style=social)](https://twitter.com/ArabicJavaDev)
-[![Discord](https://img.shields.io/discord/123456789?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/arabicjavadev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ArabicJavaDev?style=social)](https://twitter.com/i/communities/1762925509401272408)
+[![LinkedIn Group](https://img.shields.io/badge/LinkedIn-Group-blue?style=social&logo=linkedin)](https://www.linkedin.com/groups/9861223/)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue?style=social&logo=telegram)](https://t.me/java_28)
 
 [🏠 الرئيسية](#مجتمع-مطوري-جافا-بالعربي--arabic-java-developers-community) | 
 [👥 عن المجتمع](#-عن-المجتمع) | 
@@ -76,9 +77,9 @@ graph TD
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/u4java)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ArabicJavaDev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/arabicjavadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@arabicjavadev.com)
+[![Twitter Community](https://img.shields.io/badge/Twitter_Community-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i/communities/1762925509401272408)
+[![LinkedIn Group](https://img.shields.io/badge/LinkedIn_Group-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/9861223/)
+[![Telegram Group](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/java_28)
 
 </div>
 
@@ -98,6 +99,6 @@ graph TD
 
 🌟 معًا نبني مستقبل أفضل لتطوير Java في العالم العربي! 🌟
 
- [القواعد](https://github.com/u4java/u4java/blob/main/CODE_OF_CONDUCT.md)
+[القواعد](https://github.com/u4java/u4java/blob/main/CODE_OF_CONDUCT.md)
 
 </div>
