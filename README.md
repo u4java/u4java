@@ -2,7 +2,7 @@
 
 # 🌟 مجتمع مطوري جافا بالعربي | Arabic Java Developers Community 🌟
 
-![Community Banner](/api/placeholder/800/200)
+<img src="https://github.com/u4java/u4java/blob/main/logo-java.webp" alt="Community Logo" width="200"/>
 
 [![GitHub stars](https://img.shields.io/github/stars/u4java/community?style=social)](https://github.com/u4java/community/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ArabicJavaDev?style=social)](https://twitter.com/ArabicJavaDev)
