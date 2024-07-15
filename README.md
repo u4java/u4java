@@ -80,6 +80,7 @@ graph TD
 - [🎓 دورات مجانية](https://github.com/u4java/u4java/blob/main/free-java-courses.md)
 - [🏆 تحديات برمجية](https://github.com/u4java/u4java/blob/main/java-coding-challenges.md)
 
+
 ## ❓ الأسئلة الشائعة
 
 لدينا مجموعة شاملة من الأسئلة الشائعة تغطي مواضيع مثل:
@@ -92,6 +93,10 @@ graph TD
 [📚 اقرأ الأسئلة الشائعة](https://github.com/u4java/u4java/blob/main/FAQ.md)
 
 إذا لم تجد إجابة لسؤالك، لا تتردد في طرحه في [قسم المناقشات](https://github.com/u4java/u4java/discussions) الخاص بنا.
+
+## 📜 الترخيص
+
+هذا المشروع مرخص بموجب [ترخيص Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://github.com/u4java/u4java/blob/main/LICENSE.md). يمكنك مشاركة وتعديل هذا العمل بحرية، ولكن لا يُسمح بالاستخدام التجاري.
 
 ## 📞 تواصل معنا
 
