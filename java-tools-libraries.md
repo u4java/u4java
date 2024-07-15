@@ -21,7 +21,7 @@
     <td><a href="https://www.eclipse.org/">🔗 الموقع الرسمي</a></td>
   </tr>
   <tr>
-    <td><img src="https://netbeans.apache.org/images/apache-netbeans.svg" width="32"> NetBeans</td>
+    <td><img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="32"> NetBeans</td>
     <td>بيئة تطوير متكاملة مجانية ومفتوحة المصدر</td>
     <td><a href="https://netbeans.apache.org/">🔗 الموقع الرسمي</a></td>
   </tr>
@@ -31,7 +31,7 @@
     <td><a href="https://maven.apache.org/">🔗 الموقع الرسمي</a></td>
   </tr>
   <tr>
-    <td><img src="https://gradle.org/images/gradle-logo-square.png" width="32"> Gradle</td>
+    <td><img src="https://gradle.com/wp-content/uploads/2023/09/LOGO-GRADLE-HZ_RGB-REV.svg" width="64"> Gradle</td>
     <td>نظام بناء مرن وقابل للتوسعة</td>
     <td><a href="https://gradle.org/">🔗 الموقع الرسمي</a></td>
   </tr>
@@ -46,7 +46,7 @@
     <th>الرابط</th>
   </tr>
   <tr>
-    <td><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="64"> Spring Framework</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="64"> Spring Framework</td>
     <td>إطار عمل شامل لتطوير تطبيقات Java المؤسسية</td>
     <td><a href="https://spring.io/">🔗 الموقع الرسمي</a></td>
   </tr>
@@ -76,7 +76,7 @@
     <th>الرابط</th>
   </tr>
   <tr>
-    <td><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="64"> Spring Boot</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="64"> Spring Boot</td>
     <td>لإنشاء تطبيقات Spring بسرعة وسهولة</td>
     <td><a href="https://spring.io/projects/spring-boot">🔗 الموقع الرسمي</a></td>
   </tr>
@@ -89,31 +89,6 @@
     <td><img src="https://www.thymeleaf.org/images/thymeleaf.png" width="32"> Thymeleaf</td>
     <td>محرك قوالب حديث للتطبيقات الويب</td>
     <td><a href="https://www.thymeleaf.org/">🔗 الموقع الرسمي</a></td>
-  </tr>
-</table>
-
-## 🔧 أدوات مساعدة
-
-<table>
-  <tr>
-    <th>الأداة</th>
-    <th>الاستخدام</th>
-    <th>الرابط</th>
-  </tr>
-  <tr>
-    <td><img src="https://projectlombok.org/img/logo.png" width="64"> Lombok</td>
-    <td>لتقليل الشيفرة المتكررة وتحسين الإنتاجية</td>
-    <td><a href="https://projectlombok.org/">🔗 الموقع الرسمي</a></td>
-  </tr>
-  <tr>
-    <td>SLF4J</td>
-    <td>واجهة موحدة للتسجيل (Logging) في Java</td>
-    <td><a href="http://www.slf4j.org/">🔗 الموقع الرسمي</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guava-logo.svg/64px-Guava-logo.svg.png" width="32"> Guava</td>
-    <td>مكتبة أدوات عامة ومتطورة من Google</td>
-    <td><a href="https://github.com/google/guava">🔗 GitHub</a></td>
   </tr>
 </table>
 
